@@ -16,4 +16,4 @@ for image in os.listdir(input_folder):
   count = count + 1
   print(f'Converting image {count} .....')
   
-print('Task Compplete')
+print('Task Complete')
