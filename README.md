@@ -2,7 +2,7 @@
 
 _A python script to covert JPG/JPEG images and convert them to PNG format._
 
-### Required Modules
+### Required Modules:
   1) Pillow Library 
     Can be installed by pip3 install Pillow
   2) Can be ran through any Linux Console or VS Code Terminal
